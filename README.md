@@ -13,7 +13,7 @@ sudo pacman -Syu hyprland waybar wofi kitty wl-clipboard grim slurp mako hyprpap
 mkdir -p /home/use/.config
 cp -r hypr /home/use/.config/hypr
 cp -r hypr /home/use/.config/fastfetch
-cp -r waybar /home/use/.config/swaync
+cp -r swaync /home/use/.config/swaync
 cp -r waybar /home/use/.config/waybar
 cp -r wofi /home/use/.config/wofi
 ```
