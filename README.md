@@ -16,7 +16,6 @@ cp -r hypr /home/use/.config/fastfetch
 cp -r waybar /home/use/.config/swaync
 cp -r waybar /home/use/.config/waybar
 cp -r wofi /home/use/.config/wofi
-
 ```
 
 # Scrennshot
