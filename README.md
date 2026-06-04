@@ -2,7 +2,8 @@
 This repository stores the current version of my Linux desktop dotfiles from ~/.config.
 
 # Installation
-```sudo pacman -Syu hyprland waybar wofi kitty wl-clipboard grim slurp mako hyprpaper swaync nwg-look 
+```
+sudo pacman -Syu hyprland waybar wofi kitty wl-clipboard grim slurp mako hyprpaper swaync nwg-look 
 ```
 
 # Scrennshot
