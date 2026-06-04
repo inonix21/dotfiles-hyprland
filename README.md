@@ -1,2 +1,9 @@
 # Dotfiles-hyprland
+This repository stores the current version of my Linux desktop dotfiles from ~/.config.
+
+# Installation
+```sudo pacman -Syu hyprland waybar wofi kitty wl-clipboard grim slurp mako hyprpaper swaync nwg-look 
+```
+
+# Scrennshot
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07993866-01f7-4806-9732-f40aef2537eb" />
