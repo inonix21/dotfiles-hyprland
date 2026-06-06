@@ -20,3 +20,4 @@ cp -r wofi /home/use/.config/wofi
 
 # Scrennshot
 <img width="1920" height="1080" alt="screenshot-20260606-163902" src="https://github.com/user-attachments/assets/72f74aeb-be04-4bb5-a866-01694b87be5d" />
+Last updated: 2026-6-06
