@@ -3,7 +3,7 @@ This repository stores the current version of my Linux desktop dotfiles from ~/.
 
 # Installation
 ```
-sudo pacman -Syu hyprland waybar wofi kitty wl-clipboard grim slurp mako hyprpaper swaync nwg-look 
+sudo pacman -Syu hyprland waybar wofi kitty wl-clipboard grim slurp mako hyprpaper swaync nwg-look fastfetch zsh
 ```
 
 # What goes where
@@ -20,4 +20,4 @@ cp -r wofi /home/use/.config/wofi
 
 # Scrennshot
 <img width="1920" height="1080" alt="screenshot-20260606-163902" src="https://github.com/user-attachments/assets/72f74aeb-be04-4bb5-a866-01694b87be5d" />
-Last updated: 2026-6-06
+Last updated: 2026-7-16
